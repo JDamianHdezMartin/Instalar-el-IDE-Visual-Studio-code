@@ -12,13 +12,11 @@ Con el siguiente comando se comprueba la instalación de java, si él no podremo
 ```bash
 java -version
 ```
-
-![Captura de pantalla de 2021-10-06 16-46-33](https://user-images.githubusercontent.com/![Captura de pantalla de 2021-10-06 16-47-19](https://user-images.githubusercontent.com/91153503/136241704-4a018cd6-b221-4d96-8bd6-b37f8fe9a754.png)
-91153503/136241226-48c387eb-b0e1-4e04-91bb-6deb110e781c.png)
+![Captura de pantalla de 2021-10-06 16-46-33](https://user-images.githubusercontent.com/91153503/136248281-e177c07f-dafe-4339-a90d-0cbd94946ebb.png)
 
 <div id= 'P2' />
 
-## Instación de Visual Estudio Code
+## Instalación de Visual Estudio Code
 Simplemente introduciendo el siguiente comando comenzará automáticamente la descarga e instalación del IDE
 
 ```bash
